@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <package name="net.elevenfour.wcf.userInformationStatisticsArticles" xmlns="http://www.woltlab.com" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.woltlab.com http://www.woltlab.com/XSD/5.5/package.xsd">
 	<packageinformation>
-		<packagename><![CDATA[Articles for User Information Statistics]]></packagename>
+		<packagename><![CDATA[User Information Statistics: Display Articles]]></packagename>
 		<packagedescription><![CDATA[Adds the number of articles written by a user to their user profile.]]></packagedescription>
 		<version>5.5.0 Beta 1</version>
 		<date>2023-04-29</date>

@@ -1,4 +1,4 @@
-# Articles for User Information Statistics
+# User Information Statistics: Display Articles
 
 This plugin adds a counter of articles by a user to their profile in WoltLab Suite.
 
