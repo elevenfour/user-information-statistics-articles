@@ -29,7 +29,7 @@
 		<!-- listener -->
 		<instruction type="templateListener" />
 		<!-- language -->
-		<!-- <instruction type="language" /> -->
+		<instruction type="language" />
 	</instructions>
 
 </package>
