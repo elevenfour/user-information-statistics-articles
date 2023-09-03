@@ -7,8 +7,5 @@ This plugin adds a counter of articles by a user to their profile in WoltLab Sui
   
 
 ## Requirements
-- at least WoltLab Suite Core 5.5.11
+- at least WoltLab Suite Core 6.0.0
 - the article module (obviously)
-
-## Future
-- should work with WoltLab Suite 6.0 - though untested and not officially supported for obvious reasons (it's in development, still)
